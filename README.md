@@ -3,6 +3,8 @@ This project implements hardware-accelerated matrix multiplication on the Xilinx
 
 Matrix multiplication is a fundamental operation in signal processing, image computation, and machine learning. This project demonstrates how to accelerate matrix multiplication using FPGA hardware for parallel computation.
 
+Workflow:
+
 Matrix_Multiplication_PYNQ-Z2
 │
 ├── HLS
